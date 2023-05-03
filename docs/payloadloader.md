@@ -18,4 +18,4 @@ Use the D-Pad on your gamepad to select `installer` and then press A to launch i
 
 Once PayloadLoader has finished installing, power off your Wii U.
 - **If you wish to autoboot Tiramisu, continue to [Autobooting Tiramisu](/autoboot)**
-- **If you do not wish to autoboot Tiramisu, continue to [Finalizing](/finalizing)**
+- **If not, your Tiramisu has now been set up. Go into `Health and Safety Information` to launch Tiramisu!**
