@@ -1,7 +1,19 @@
-First off, making a NAND backup is very useful. It can save you from harm you do to your system, import it on emulators, etc. This is optional, but please do as we say and make a NAND backup.
+# Backing Up Your NAND
 
-Once again, revisit wiiuexploit.xyz , Like before, click run exploit again. Hold down B on your gamepad when you see the white wii u loadscreen. You will see two options, instead of pressing default, press nandbackup.
+?> Making a NAND backup is very useful. It can help you fix a brick if you mess up.
 
-You can backup whatever you wish, but i recommend selecing all of them (moving joystick to yes). This will begin to backup your NAND. After it has done backup-ing your nand, you should be able to see the wii u menu again. Power off the console and eject the SD Card.
+!> Restoring a NAND backup requires a JTAG programmer or microsoldering knowledge. Backing up your NAND is optional, but is highly recommended.
 
-On your computer, you should see the SD card with a bunch of MLC.part420.bin (example) files, with some other .bin files. Move them all to a safe folder on your Hard Drive called WiiU nand.
+1️⃣ Once again, revisit `wiiuexploit.xyz`. and tap `Run Exploit`. \
+2️⃣ Hold down B on your gamepad until you see a menu saying `Please choose your payload`. Scroll down and press A on `nanddumper`.\
+3️⃣ Use your gamepad's D-Pad to select the following options:
+- Dump SLC: **yes**
+- Dump SLCCMPT: **yes**
+- Dump MLC: **no**
+- Dump OTP: **yes**
+- Dump SEEPROM: **yes**
+
+4️⃣ Press A to start the dumping process. This may take a while.\
+Once the process has completed, copy all the `.bin` files to your computer and delete them after to save space on your SD card.
+
+- **Continue to [Installing PayloadLoader](/payloadloader)**
