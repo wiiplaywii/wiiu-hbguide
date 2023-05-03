@@ -4,4 +4,4 @@ Once again, revisit wiiuexploit.xyz , Like before, click run exploit again. Hold
 
 You can backup whatever you wish, but i recommend selecing all of them (moving joystick to yes). This will begin to backup your NAND. After it has done backup-ing your nand, you should be able to see the wii u menu again. Power off the console and eject the SD Card.
 
-On your computer, you should see the SD card with a bunch of MLC.part420.bin (example) files. Move them all to a safe folder on your Hard Drive called WiiU nand.
+On your computer, you should see the SD card with a bunch of MLC.part420.bin (example) files, with some other .bin files. Move them all to a safe folder on your Hard Drive called WiiU nand.
