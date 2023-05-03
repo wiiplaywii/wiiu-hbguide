@@ -11,6 +11,6 @@ In the current version of Tiramisu, you need to load Health and Safety Informati
 PayloadLoader will now load when you boot up your Wii U.\
 Navigate with the D-Pad to `tiramisu` and press Y, then press A to launch it. Tiramisu will then automatically boot when you start your console.
 
-?> If you wish to automatically boot into the vWii or the homebrew launcher, hold (+) on the gamepad while booting.
+?> If you wish to boot into the vWii or the homebrew launcher, hold (+) on the gamepad while booting.
 
 Congratulations! Tiramisu is now officially set up.
