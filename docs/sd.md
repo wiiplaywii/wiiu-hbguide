@@ -10,7 +10,7 @@
 - An SD card. The sweet spot for Wii U SD cards is about 32GB in size, although it will work with anything 2GB or above.
 - A computer, laptop, or anything which can read SD cards.
 
-## Installing Tiramisu
+## Installing Files
 1️⃣ Insert your SD card into your PC. If you don't have an SD card reader on your computer, buy a USB to SD adapter on Amazon.\
 2️⃣ Extract the Tiramisu `.zip` file you downloaded to the root of your SD card.\
 3️⃣ Copy the downloaded `01_sigpatches.rpx` file to the following location on your SD card:
