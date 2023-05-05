@@ -14,3 +14,5 @@ Navigate with the D-Pad to `tiramisu` and press Y, then press A to launch it. Ti
 ?> If you wish to boot into the vWii or the homebrew launcher, hold (+) on the gamepad while booting.
 
 Congratulations! Tiramisu is now officially set up.
+
+If you want to setup aroma, continue [here](whatisaroma)
