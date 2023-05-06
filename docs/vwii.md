@@ -20,3 +20,29 @@
 4. If not already modded, copy over the contents from Tiramisu.zip to the SD.
 5. Copy over the compat_installer.elf file to your wiiu/apps folder.
 6. Eject the SD out of your PC and put it in your WiiU.
+
+# NAND Dumping
+
+1. On the Wii U's browser, navigate to wiiuexploit.xyz
+
+3. Click run exploit on the gamepad.
+
+3. Hold B down on the gamepad to enter the NAND Dumper.
+
+6. Use the d-pad on the Gamepad to choose these dump settings:
+
+Dump SLC: yes
+
+Dump SLCCMPT: yes
+
+Dump MLC: no
+
+Dump OTP: yes
+
+Dump SEEPROM: yes
+
+5. Press A on the Gamepad to dump.
+
+6. After the dumping has ended, power down the Wii U, Eject the SD from your Wii U, and put it in your computer.
+
+7. NAND Backup, move the slccmpt.bin, otp.bin, seeprom.bin, slc.bin, Files to your computer in a safe folder.
