@@ -1,19 +1,19 @@
-# Aroma
+# Installing Aroma
 
 ## Preparations
 
 ### What do I need?
 
-You will need the latest files from the [Aroma download page](https://aroma.foryour.cafe/).
+You will need the latest files from [aroma.foryour.cafe](https://aroma.foryour.cafe/).
     1. Navigate to the **Download** section.
-    2. Select `Download Payloads` and `Download base Aroma`.
+    2. Select `Download Payloads` and `Download Base Aroma`.
 
 ### Getting Started
 
 1. Extract and copy the `wiiu` folder from both of the `zip` files you just downloaded and put them on the root of your SD card.
-    - If your computer prompts, select yes to merging both of the ``wiiu``folders.
+    - If your computer asks you, select yes to merging both of the ``wiiu`` folders.
 
-### Your SD card should look like this
+### Your SD card should look like this:
 ```
 💾sd:
  ┗ 📂wiiu
@@ -51,4 +51,4 @@ You will need the latest files from the [Aroma download page](https://aroma.fory
 2. Highlight the entry called `Aroma` and press `A` to launch it.
 3. You will be brought to a screen called the Boot Selector. Select whatever you want to launch, Wii U menu, Wii Menu whatever.
 
-Congratulations! You are now running Aroma. The Homebrew launcher no longer exists so any Aroma apps you have are on the home screen.
+Congratulations! You are now running Aroma. There is no working version of The Homebrew Launcher for Aroma, so your homebrew will now be in ``.rpx`` and ``.wuhb`` files in `sd:/wiiu/apps/`.
