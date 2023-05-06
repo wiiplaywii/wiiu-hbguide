@@ -14,12 +14,12 @@
 ---
 
 - **Aroma**
----
 [What is Aroma](whatisaroma)
+-
 [Start Aroma](startaroma)
+
 - **Virtual Wii**
----
-- [vWii Hacking](vwii)
+[vWii Hacking](vwii)
 
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/skyybrew/wiiu-hbguide)
 - [![YouTube](https://icongr.am/simple/youtube.svg?color=808080&size=16)YouTube](https://www.youtube.com/@Jacob-Bjorne)
