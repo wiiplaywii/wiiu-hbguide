@@ -6,8 +6,7 @@
 
 [Tiramisu CFW](https://tiramisu.foryour.cafe/)
 
-[vWii Compat Installer](https://github.com/TheLordScruffy/
-vwii-compat-installer/releases)
+[vWii Compat Installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases)
 
 [d2x cIOS installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
