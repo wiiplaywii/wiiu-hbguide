@@ -45,4 +45,12 @@ Dump SEEPROM: yes
 
 6. After the dumping has ended, power down the Wii U, Eject the SD from your Wii U, and put it in your computer.
 
-7. NAND Backup, move the slccmpt.bin, otp.bin, seeprom.bin, slc.bin, Files to your computer in a safe folder.
+7. To keep the NAND Backup safe, move the slccmpt.bin, otp.bin, seeprom.bin, slc.bin, Files to your computer in a safe folder.
+
+8. To save on space, Delete The NAND Backup from your SD.
+
+9. Eject the SD from your computer, and insert it in your Wii U.
+
+10. Navigate to wiiuexploit.xyz , But this time click run exploit and hold X on the gamepad.
+
+
