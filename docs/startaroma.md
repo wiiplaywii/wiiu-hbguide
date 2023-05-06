@@ -10,7 +10,7 @@ You will need the latest files from [aroma.foryour.cafe](https://aroma.foryour.c
 
 ### Getting Started
 
-1. Extract and copy the `wiiu` folder from both of the `zip` files you just downloaded and put them on the root of your SD card.
+1. Extract and copy the `wiiu` folder from both of the `.zip` files you just downloaded and put them on the root of your SD card.
     - If your computer asks you, select yes to merging both of the ``wiiu`` folders.
 
 ### Your SD card should look like this:
