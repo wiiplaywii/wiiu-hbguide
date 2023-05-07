@@ -1,3 +1,4 @@
-# Hello fellow GitHub traveller!
-This is a project made by volunteers dedicated to guide people on how to homebrew their Wii U. You can visit it [here](https://wiiu.skyybrew.xyz/), we hope you enjoy!
-Not for commercial use.
+[![skyybrew.xyz CD](https://github.com/skyybrew/wiiu-hbguide/actions/workflows/cd.yml/badge.svg)](https://github.com/skyybrew/wiiu-hbguide/actions/workflows/cd.yml)
+# wiiu-hbguide
+---
+source code for wiiu.skyybrew.xyz
