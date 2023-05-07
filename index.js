@@ -9,6 +9,6 @@ const app = express();
 
 app.use(express.static('yeahboi'));
 
-app.listen(4006, () => { // i exposed the port omg security vulnerability omg omg omg!!1
+app.listen(5000, () => { // i exposed the port omg security vulnerability omg omg omg!!1
   console.log(`Server is up.`);
 });
