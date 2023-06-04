@@ -19,6 +19,8 @@ It downloads everything from the encrypted eshop servers, so you can have peace 
 7. Once in the homebrew launcher, navigate to the NUSspli app.
 8. Congrats! You have installed NUSspli!
 
-?> I will put a troubleshooting guide here soon. This page is in beta. 
+?> You can now install any game you want! If you have any errors, continue to this [page.](https://wiiu.skyybrew.xyz/#/NUSspliTroubleshooting)
+
+
 
 
