@@ -5,7 +5,10 @@ Now that we have a NAND backup, we can install PayloadLoader onto your Wii U.
 !> Installing PayloadInstaller does permanent modifications to your console that a factory reset **can not** reverse.
 
 ## Installing It
-1️⃣ Execute the [browser exploit](/browser) previously mentioned, but instead of holding B, hold X.\
+1️⃣ Execute the [browser exploit](/browser) previously mentioned, but instead of holding B, hold X.
+
+?> People are having some issues with this, a fix is to keep holding B even after the wiiu splash screen :)
+
 2️⃣ You should be on a menu like this:
 ![image](/environmentloader.jpg)\
 Use the D-Pad on your gamepad to select `installer` and then press A to launch it.
