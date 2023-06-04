@@ -4,10 +4,10 @@ Now that we have a NAND backup, we can install PayloadLoader onto your Wii U.
 
 !> Installing PayloadInstaller does permanent modifications to your console that a factory reset **can not** reverse.
 
-## Installing It
+## Booting into Tiramisu
 1️⃣ Execute the [browser exploit](/browser) previously mentioned, but instead of holding B, hold X.
 
-?> People are having some issues with this, a fix is to keep holding B even after the wiiu splash screen :)
+?> People are having some issues with this, a fix is to keep holding B even after the wiiu splash screen.
 
 2️⃣ You should be on a menu like this:
 ![image](/environmentloader.jpg)\
