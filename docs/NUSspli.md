@@ -6,7 +6,7 @@ It downloads everything from the encrypted eshop servers, so you can have peace 
 
 ## This sounds cool! What are the prerequisites?
 
-?> You need a homebrewed WiiU with tiramisu or aroma installed. Follow our guide for tiramisu [Here.](https://wiiu.skyybrew.xyz/#/sd). Or, our guide for aroma [Here](https://wiiu.skyybrew.xyz/#/startaroma)
+?> You need a homebrewed WiiU with tiramisu or aroma installed. Follow our guide for tiramisu [Here](https://wiiu.skyybrew.xyz/#/sd). Or, our guide for aroma [Here](https://wiiu.skyybrew.xyz/#/startaroma)
 
 ?> On your pc, you will need a extraction software. Grab the free 7zip from [here](https://www.7-zip.org/a/7z2201-x64.exe).
 ## Installing NUSspli.
