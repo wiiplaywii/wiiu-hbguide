@@ -20,6 +20,20 @@ It downloads everything from the encrypted eshop servers, so you can have peace 
 7. Once in the homebrew launcher, navigate to the NUSspli app.
 8. Congrats! You have installed NUSspli!
 
+## Usage
+
+NUSspli is very easy to use. This is a short guide i have made on how to use it.
+
+1. Boot up the app.
+2. Go to the search icon and search any game you wish to install.
+3. Once located, press A on the gamepad on that game.
+4. You will see some settings, It should ask if you want to install it to your NAND or USB. Install it to which one you please.
+5. Your game should now start downloading, NUSspli is not that fast so be patient.
+
+And thats all you have to do! Enjoy!
+
+!> Only install games you own. It is the law.
+
 ?> You can now install any game you want! If you have any errors, continue to this [page.](https://wiiu.skyybrew.xyz/#/NUSspliTroubleshooting)
 
 
