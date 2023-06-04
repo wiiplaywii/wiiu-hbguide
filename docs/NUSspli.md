@@ -4,7 +4,9 @@ NUSspli is a Nintendo Eshop replacement, everything on it is free and you can fi
 
 It downloads everything from the encrypted eshop servers, so you can have peace of mind.
 
-## This sounds cool! What are the prerequisites?
+!> Only install games you own. It is the law.
+
+## What are the prerequisites?
 
 ?> You need a homebrewed WiiU with tiramisu or aroma installed. Follow our guide for tiramisu [Here](https://wiiu.skyybrew.xyz/#/sd). Or, our guide for aroma [Here](https://wiiu.skyybrew.xyz/#/startaroma)
 
@@ -32,9 +34,7 @@ NUSspli is very easy to use. This is a short guide i have made on how to use it.
 
 And thats all you have to do! Enjoy!
 
-!> Only install games you own. It is the law.
-
-?> You can now install any game you want! If you have any errors, continue to this [page.](https://wiiu.skyybrew.xyz/#/NUSspliTroubleshooting)
+?> If you have any errors, continue to this [page.](https://wiiu.skyybrew.xyz/#/NUSspliTroubleshooting)
 
 
 
