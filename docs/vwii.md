@@ -8,7 +8,7 @@
 
 - [vWii Compat Installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases)
 
-- [d2x cIOS installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+- [d2x cIOS installer](https://github.com/davebaol/d2x-cios/releases/download/d2x-v11-beta1/d2x-v11-beta1-vWii.7z)
 
 - [Patched IOS80 Installer](https://hbb1.oscwii.org/hbb/Patched_IOS80_Installer_for_vWii/Patched_IOS80_Installer_for_vWii.zip)
 
