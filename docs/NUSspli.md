@@ -10,7 +10,7 @@ It downloads everything from the encrypted eshop servers, so you can have peace 
 
 ## Installing NUSspli.
 
-1. Downloading the app: First of course, we need the actual file for the app. Grab it [Here](https://github.com/V10lator/NUSspli/releases/download/v1.135/NUSspli-1.135-HBL.zip)
+1. Downloading the app: First of course, we need the actual file for the app. Grab it [Here](https://github.com/V10lator/NUSspli/releases/download/v1.135/NUSspli-1.135-HBL.zip), Or if your on aroma grab it [Here](https://github.com/V10lator/NUSspli/releases/download/v1.135/NUSspli-1.135-Aroma.zip)
 2. Extract the folder.
 3. When extracted, insert your WiiU's SD card into your pc. 
 4. Move the extracted file into this directory on your SD card: wiiu/apps
