@@ -10,7 +10,6 @@ It downloads everything from the encrypted eshop servers, so you can have peace 
 
 ?> You need a homebrewed WiiU with tiramisu or aroma installed. Follow our guide for tiramisu [Here](https://wiiu.skyybrew.xyz/#/sd). Or, our guide for aroma [Here](https://wiiu.skyybrew.xyz/#/startaroma)
 
-?> On your pc, you will need a extraction software. Grab the free 7zip from [here](https://www.7-zip.org/a/7z2201-x64.exe).
 ## Installing NUSspli.
 
 1. Downloading the app: First of course, we need the actual file for the app. Grab it [Here](https://github.com/V10lator/NUSspli/releases/download/v1.135/NUSspli-1.135-HBL.zip), Or if your on aroma grab it [Here](https://github.com/V10lator/NUSspli/releases/download/v1.135/NUSspli-1.135-Aroma.zip)
